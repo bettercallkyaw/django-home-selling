@@ -1,0 +1,16 @@
+BT Real Estate App Requirements
+
+- Home
+- About
+- Listings
+- Single Listings
+- Search
+- Register
+- Login
+- Dashboard(Inquires)
+
+Design Specs
+- use BTRE logo (frontend and admin)
+- brandling color- blue(#10284e) gree(#30caa0)
+- mobile friendly
+- social media icon and contact info

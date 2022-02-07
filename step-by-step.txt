@@ -5,3 +5,6 @@
 (2)Models,Migrations&Admin   
 (3)View Methods,Display&Search
 (4)Account&Authentication
+    - python manage.py startapp accounts
+(5)Contact Inquires
+    - python manage.py startapp contacts

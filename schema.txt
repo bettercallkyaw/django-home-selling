@@ -44,4 +44,4 @@ name:STR
 email:STR
 phone:STR
 message:TEXT
-contact_date:DAte
+contact_date:Date

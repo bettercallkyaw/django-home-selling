@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'accounts.apps.AccountsConfig',
+    'contacts.apps.ContactsConfig',
     'listings.apps.ListingsConfig',
     'pages.apps.PagesConfig',
     'realtors.apps.RealtorsConfig',
@@ -141,3 +142,5 @@ from django.contrib.messages import constants as messages
 MESSAGE_TAGS={
     messages.ERROR:'danger'
 }
+
+#email
